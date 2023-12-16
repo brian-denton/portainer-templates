@@ -28,7 +28,7 @@
           "name": "TZ"
         }
       ],
-      "image": "authelia/authelia:latest",
+      "image": "authelia/authelia",
       "logo": "https://raw.githubusercontent.com/xneo1/portainer_templates/master/Images/authelia.png",
       "name": "authelia",
       "note": "Requires a configuration.yml file in order to work. Documentation is available <a href='https://docs.authelia.com/deployment/deployment-ha'>here</a>.",
